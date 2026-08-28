@@ -1,5 +1,3 @@
-# tca72_onvif_recorder
-
 Vibe-coded Go binary that records RTSP streams from a TP-Link Tapo TC72 camera on ONVIF motion-detection events (detection runs entirely on-camera).
 
 **Built with the help of Claude Code**
